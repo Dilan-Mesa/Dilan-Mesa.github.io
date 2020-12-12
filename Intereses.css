@@ -1,0 +1,17 @@
+img{
+	max-height: 45%;
+	margin-left: 5%;
+}
+#titulo{
+	font-family: 'Metal Mania', cursive;
+	text-align: center;
+	font-size: 50px;
+	color: black; 
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+img:hover{
+	border: solid red 3px;
+	max-height: 44%;
+}
+iframe{}

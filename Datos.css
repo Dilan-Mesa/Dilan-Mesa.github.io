@@ -1,0 +1,31 @@
+table{
+	margin-left: 38%;
+	margin-top: 3%;
+	margin-right: 38%;
+}
+td{
+	border: solid black 1px;
+	padding: 2%;
+}
+.oscuro{ 
+    background-color: #1f1f1f; 
+    color: #f1eded; 
+}
+.borde{
+	background-color: red;
+}
+.btn{
+	font-family: "Varela Round";
+	letter-spacing: 0;
+	margin-left: 80%;
+	background: linear-gradient(180deg, #FFF 0%, #777777 49%, #777777 50%, #000 100%);
+    background-size: 1px 100px;
+    transition: all .3s;
+    padding: 0.5%;
+}
+.btn:hover{
+	background-position: 0 -50px;
+    transition: all .3s;
+    color: white;
+    border-color:  white;
+}

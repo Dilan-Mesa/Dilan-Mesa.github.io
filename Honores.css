@@ -1,0 +1,76 @@
+.titulo{
+	margin-top: 4%;
+	margin-bottom: 2%;
+	padding-left: 10%;
+	margin-right: 30%;
+	margin-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	background-color: #85C2AA;
+}
+.index:hover{
+	font-size: 31px;
+	box-shadow: 4px 4px black;
+	background-color: #FFC2C2;
+}
+.index{
+	text-decoration: none;
+	color: black;	
+	margin-top: 2%;
+	font-size: 30px;
+	padding-left: 2%;
+	margin-left: 10%;
+	padding-right: 10%;
+	transition: box-shadow 0.6s;
+}
+#titulo1{
+	margin-top: 7%;
+	margin-bottom: 4%;
+	padding-left: 10%;
+	margin-right: 30%;
+	margin-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	background-color: #8B84D0;
+}
+#titulo2{
+	margin-top: 7%;
+	margin-bottom: 4%;
+	padding-left: 10%;
+	margin-right: 30%;
+	margin-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	background-color: #D08484;
+}
+#titulo3{
+	margin-top: 7%;
+	margin-bottom: 4%;
+	padding-left: 10%;
+	margin-right: 30%;
+	margin-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	background-color: #E8D581;
+}
+.lista{
+	margin-left: 12%;
+	font-size: 20px;
+}
+li{
+	margin-bottom: 1%;
+}
+.volver{
+	border: solid black 1px;
+	margin-left: 12%;
+	margin-bottom: 10%;
+	text-decoration: none;
+	color: black;
+	padding: 1%;
+	transition: box-shadow 0.6s;
+}
+.volver:hover{
+	background-color: #171717;
+	color: #C85656;
+	border:solid #C85656 1px;
+}
